@@ -168,7 +168,7 @@ start and select buttons. */
     position: absolute;
     width:62px;
     height:62px;
-    background: url(https://gamepadviewer.com/xbox-assets-old/face-buttons.png);
+    background: url(Face-buttons.png);
 }
 .custom .button.pressed{
     background-position-y: -64px;
